@@ -23,11 +23,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,git,github,streamlit,vscode,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,git,github,vscode,streamlit&perline=8"/>
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=8"/>
+<img src="https://skillicons.dev/icons?i=linux,tensorflow,opencv&perline=3"/>
 </p>
 
 **Libraries & Tools**
